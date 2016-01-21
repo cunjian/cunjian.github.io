@@ -1,0 +1,85 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+== Cunjian Chen’s Homepage 
+
+~~~
+{}{img_left}{images/personal.jpg}{This is Cunjian Chen on the Brooklyn Bridge}{169}{200}
+Cunjian Chen, Ph.D. \n 
+Department of Computer Science and Engineering\n
+[http://www.wvu.edu/ West Virginia University]\n
+
+Postdoc Fellow during Aug. 2014 - Jan. 2015\n
+[http://www.msu.edu/ Department of Computer Science]\n
+Michigan State University, East Lansing\n
+
+Email: cunjian.chen@outlook.com\n
+
+Advisor: [http://www.cse.msu.edu/~rossarun/ Prof. Arun Ross] Associate Professor, Michigan State University
+~~~
+== Biography
+I received Master and Ph.D. degrees in Computer Science from West Virginia University, in 2011 and 2014 respectively, supervised by Dr. Arun Ross. From August 2013 to August 2014, I am also a Visiting Scholar in the Department of Computer Science Engineering at Michigan State University. After graduation, I worked as a Postdoctoral Fellow at Michigan State University.
+
+== Recent Updates
+- Serve in ICB Program Committee Member
+
+== Research Experience
+- Canon Information Technology, Beijing, CN
+Senior Researcher, 09\/2015- Present
+
+- Michigan State University, East Lansing, US
+Postdoctoral Fellow (non-contract), 01\/2015- 05\/2015
+ 
+- Michigan State University, East Lansing, US
+Postdoctoral Fellow, 08\/2014- 01\/2015
+ 
+- Michigan State University, East Lansing, US
+Visiting Scholar, 08\/2013 - 09\/2014
+ 
+- West Virginia University, Morgantown, US
+Research Assistant, 08\/2008- 08\/2014
+
+== Research Interests
+Face Alignment; Face Recognition; Biometrics; Soft Biometrics Estimation. 
+
+
+
+== Book Chapters
+. D. Reid, S. Samangooei, C. Chen, M. S. Nixon, A. Ross , \"Soft Biometrics for Surveillance: An Overview \". in Handbook of Statistics, Vol. 31, C. R. Rao and V. Govindaraju (Eds.), Elsevier 2013.\
+
+== Journals
+. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2015 (To Appear) 
+. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”. Pattern Recognition Letters, 2015 (To Appear).
+
+== Conferences
+
+. A. Rattani, C. Chen, A. Ross, \"Evaluation of Texture Descriptors for Automated Gender Estimation from Fingerprints\". Proc. of ECCV Workshop on Soft Biometrics, (Zurich, Switzerland), September 2014. \[[papers/RattaniChenRossFingerprintGender_ECCVW2014.pdf PDF]\] 
+. C. Chen, A. Dantcheva, A. Ross, \"Impact of Facial Cosmetics on Automatic Gender and Age Estimation Algorithms\". Proc. of 9th International Conference on Computer Vision Theory and Applications (VISAPP), (Lisbon, Portugal), January 2014
+. C. Chen, A. Dantcheva, A. Ross, \"Automatic Facial Makeup Detection with Application in Face Recognition\". Proc. of 6th IAPR International Conference on Biometrics (ICB), (Madrid, Spain), June 2013.
+. C. Chen and A. Ross, \"Local Gradient Gabor Pattern (LGGP) With Applications in Face Recognition, Cross-spectral Matching and Soft Biometrics\". Proc. of SPIE Biometric and Surveillance Technology for Human and Activity Identification X, (Baltimore, USA), May 2013.
+. A. Dantcheva, C. Chen, A. Ros, \"Can Facial Cosmetics Affect the Matching Accuracy of Face Recognition Systems?\". roc. of 5th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS), (Washington DC, USA), September 2012
+. D. Cao, C. Chen, D. Adjeroh, A. Ross, \"Predicting Gender and Weight from Human Metrology Using a Copula Model\". Proc. of 5th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS), (Washington DC, USA), September 2012.
+. T. Bourlai, A. Ross, C. Chen, L. Horna, \"A Study on Using Mid-wave Infrared Images for Face Recognition\". Proc. of SPIE Biometric and Surveillance Technology for Human and Activity Identification X, (Baltimore, USA), May 2012
+. C. Chen and A. Ross, \"Evaluation of Gender Classification Methods on Thermal and Near-infrared Face Images\". Proc. of International Joint Conference on Biometrics (IJCB), (Washington DC, USA), October 2011.
+. D. Cao, C. Chen, M. Piccirilli, D. Adjeroh, T. Bourlai, A. Ross, \"Can Facial Metrology Predict Gender?\". Proc. of International Joint Conference on Biometrics (IJCB), (Washington DC, USA), October 2011.
+. A. Ross and C. Chen, \"Can Gender be Predicted from Near-Infrared Face Images?\". Proc. of International Conference on Image Analysis and Recognition (ICIAR), (Burnaby, Canada), June 2011. 2011.
+
+== Dissertation
+. C. Chen, \"Patch-based Ensemble Learning Scheme for Heterogeneous Face Recognition\". Ph.D. Thesis, West Virginia University, 2014. Advisor: Prof. Arun Ross
+
+== Program Committee Member
+- IEEE International Conference on Identity, Security and Behavior Analysis (ISBA), Japan, Sendai, 2016
+
+- The 9th IAPR International Conference on Biometrics (ICB), Halmstad, Sweden, June 13-16, 2016.
+
+== Professional Activities
+- Reviewer of Journals: Transactions on PAMI, Transactions on Image Processing, Transactions on IFS, CVIU, IVC, PRL, EURASIP, IPL, Journal of Signal Processing, Information Science, Journal of Visual Communication and Image Representation, IET Biometrics, IET Computer Vision.
+
+- Reviewer of Conferences: CVPR, FGR, BTAS, CVPR Workshop, ICIP 2015, ICPR, IJCB, ISPA, ICNNSP, ICICS, WACV, ISBA 2016, ICB 2016, ICAIR 2016, ICIP 2016
+
+== Honors
+- FG 2013 Doctoral Consortium Award
+- IJCB 2014 Doctoral Consortium Award
+- ICB 2013 Best Poster Award
+
+
+{{<div align="right"> <img border="0" src="http://cc.amazingcounters.com/counter.php?i=3172071&c=9516526" alt="AmazingCounters.com"> </div>}}
+
