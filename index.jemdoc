@@ -12,7 +12,7 @@ Department of Computer Science and Engineering\n
 [http://www.msu.edu/ Michigan State University], East Lansing, MI\n
 
 Email: cunjian.chen@outlook.com \n
-[http://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en Google Scholar]: 204 Citations\n
+[http://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en Google Scholar]: 258 Citations\n
 
 Research Blog: [http://fishman2008.github.io Personal blog on Deep Learning]\n
 GitHub Projects: [https://github.com/cunjian GitHub Projects]\n
@@ -56,6 +56,8 @@ Deep Learning; Face Alignment; Face Recognition; Biometrics; Soft Biometrics Est
 
 == Conferences
 
+. C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. [To Appear]
+
 . A. Rattani, C. Chen, A. Ross, \"Evaluation of Texture Descriptors for Automated Gender Estimation from Fingerprints\". Proc. of ECCV Workshop on Soft Biometrics, (Zurich, Switzerland), September 2014. \[[papers/RattaniChenRossFingerprintGender_ECCVW2014.pdf PDF]\] 
 . C. Chen, A. Dantcheva, A. Ross, \"Impact of Facial Cosmetics on Automatic Gender and Age Estimation Algorithms\". Proc. of 9th International Conference on Computer Vision Theory and Applications (VISAPP), (Lisbon, Portugal), January 2014. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenCosmeticsGenderAge_VISAPP2014.pdf PDF]\]
 . C. Chen, A. Dantcheva, A. Ross, \"Automatic Facial Makeup Detection with Application in Face Recognition\". Proc. of 6th IAPR International Conference on Biometrics (ICB), (Madrid, Spain), June 2013. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenMakeupDetection_ICB2013.pdf PDF]\]
@@ -92,17 +94,19 @@ CVPR 2016, Las Vegas, NV, USA.
 
 - IEEE International Conference on Identity, Security and Behavior Analysis (ISBA), 2017
 
+- The 12th Chinese Conference on Biometric Recognition, Shenzhen, China, October, 2017.
+
 == Professional Activities
 - Reviewer of Journals: 
 -- IEEE Transactions: T-PAMI, T-IP, T-IFS, T-CSVT
 -- Elsevier Journals: CVIU, IVC, PRL, IPL, Journal of Signal Processing, Information Science, Journal of Visual Communication and Image Representation
--- Other Journals: IET Biometrics, IET Computer Vision, EURASIP
+-- Other Journals: IET Biometrics, IET Computer Vision, EURASIP, Sensors, IETE Technical Review
 
 
 - Reviewer of Conferences: 
 -- CVPR, FGR, BTAS, CVPR Workshop, ICIP 2015, ICPR, IJCB, ISPA, ICNNSP, ICICS, WACV2015 
 -- ISBA 2016, ICB 2016, ICIAR 2016, ICIP 2016, CVPR-PBVS2016, CCPR 2016, AVSS 2016, CCBR 2016
--- CMV 2017, FG 2017, ISBA 2017 
+-- CMV 2017, FG 2017, ISBA 2017, ICIP2017 
 
 == Honors
 - FG 2013 Doctoral Consortium Award
