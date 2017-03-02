@@ -12,12 +12,12 @@ Department of Computer Science and Engineering\n
 [http://www.msu.edu/ Michigan State University], East Lansing, MI\n
 
 Email: cunjian.chen@outlook.com \n
-[http://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en Google Scholar]: 264 Citations\n
+[http://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en Google Scholar]: 277 Citations\n
 
 Research Blog: [http://fishman2008.github.io Personal blog on Deep Learning]\n
 GitHub Projects: [https://github.com/cunjian GitHub Projects]\n
 
-Advisor: [http://www.cse.msu.edu/~rossarun/ Prof. Arun Ross], Professor, Michigan State University
+Advisor: [http://www.cse.msu.edu/~rossarun/ Dr. Arun Ross], Professor, Michigan State University
 ~~~
 == Biography
 I received M.S. and Ph.D. degrees in Computer Science from West Virginia University, in 2011 and 2014 respectively, supervised by Dr. Arun Ross. From August 2013 to August 2014, I was a Visiting Scholar in the Department of Computer Science Engineering at Michigan State University. After graduation, I worked as a Postdoctoral Fellow at Michigan State University.
@@ -57,7 +57,7 @@ Deep Learning; Face Alignment; Face Recognition; Biometrics; Soft Biometrics Est
 
 == Conferences
 
-. C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award)
+. C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}}
 . A. Rattani, C. Chen, A. Ross, \"Evaluation of Texture Descriptors for Automated Gender Estimation from Fingerprints\". Proc. of ECCV Workshop on Soft Biometrics, (Zurich, Switzerland), September 2014. \[[papers/RattaniChenRossFingerprintGender_ECCVW2014.pdf PDF]\] 
 . C. Chen, A. Dantcheva, A. Ross, \"Impact of Facial Cosmetics on Automatic Gender and Age Estimation Algorithms\". Proc. of 9th International Conference on Computer Vision Theory and Applications (VISAPP), (Lisbon, Portugal), January 2014. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenCosmeticsGenderAge_VISAPP2014.pdf PDF]\]
 . C. Chen, A. Dantcheva, A. Ross, \"Automatic Facial Makeup Detection with Application in Face Recognition\". Proc. of 6th IAPR International Conference on Biometrics (ICB), (Madrid, Spain), June 2013. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenMakeupDetection_ICB2013.pdf PDF]\]
