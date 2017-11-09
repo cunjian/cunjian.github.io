@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{images/conference.png}{This is Cunjian Chen at MSU}{169}{200}
-Cunjian Chen, Ph.D.@WVU, Postdoctoral Research Associate@MSU\n 
+Cunjian Chen, Ph.D.@WVU, Research Associate@MSU\n 
 [http://www.cse.msu.edu/~rossarun/i-probe/ iPRoBe Lab], Department of Computer Science and Engineering \n
 [http://www.msu.edu/ Michigan State University], East Lansing, MI\n
 
@@ -68,42 +68,37 @@ Deep Learning; Face Detection; Face Alignment; Face Recognition; Soft Biometrics
 . A. Dantcheva, C. Chen, A. Ross, \"Makeup challenges automated face recognition systems\”. SPIE Newsroom 2013, Defense and Security. DOI: 10.1117/2.1201303.004795.
 
 
-== Thesis
-- C. Chen, \"Gender Classification from Facial Images\”, M.S. Thesis, West Virginia University, 2011. Advisor: Prof. Arun Ross
-- C. Chen, \"Patch-based Ensemble Learning Scheme for Heterogeneous Face Recognition\”, Ph.D. Thesis, West Virginia University, 2014. Advisor: Prof. Arun Ross
-
 == Program Committee Member
-- IEEE International Conference on Identity, Security and Behavior Analysis (ISBA), Japan, Sendai, 2016.
 
-- The 9th IAPR International Conference on Biometrics (ICB), Halmstad, Sweden, June 13-16, 2016.
+- IAPR International Conference on Biometrics (ICB 2016, 2018).
 
-- 12th IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS), in conjunction with
-CVPR 2016, Las Vegas, NV, USA. 
+- IEEE Workshop on Perception Beyond the Visible Spectrum, in conjunction with
+CVPR. (CVPR-PBVS 2016, 2017) 
 
-- 13th International Conference on Advanced Video and Signal- Based Surveillance, Colorado Springs, Colorado, USA, August 23-26, 2016.
+- International Conference on Advanced Video and Signal- Based Surveillance (AVSS 2016).
 
-- The 11th Chinese Conference on Biometric Recognition (CCBR), Chengdu, China, October, 2016. 
+- Chinese Conference on Biometric Recognition (CCBR 2016, 2017). 
 
-- The 7th Chinese Conference on Pattern Recognition (CCPR), Chengdu, China, November, 2016.
+- Chinese Conference on Pattern Recognition (CCPR 2016).
 
-- IEEE International Conference on Identity, Security and Behavior Analysis (ISBA), 2017
+- IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2016, 2017)
 
-- The 12th Chinese Conference on Biometric Recognition (CCBR), Shenzhen, China, October, 2017.
+- IEEE Conference on Automatic Face and Gesture Recognition (FG 2018)
 
-- 13th IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS), in conjunction with
-CVPR 2017, Honolulu, Hawaii, USA. 
+- International Conference of the Biometrics Special Interest Group (BIOSIG 2017) 
 
 == Professional Activities
 - Reviewer of Journals: 
 -- IEEE Transactions: T-PAMI, T-IP, T-IFS, T-CSVT, IEEE Access
 -- Elsevier Journals: CVIU, IVC, PRL, IPL, Journal of Signal Processing, Information Science, Journal of Visual Communication and Image Representation
--- Other Journals: IET Biometrics, IET Computer Vision, EURASIP, Sensors, IETE Technical Review
+-- Other Journals: IET Biometrics, IET Computer Vision, EURASIP, Sensors, IETE Technical Review, PLOS ONE, Journal of Experimental and Theoretical Artificial Intelligence
 
 
 - Reviewer of Conferences: 
 -- CVPR, FGR, BTAS, CVPR Workshop, ICIP 2015, ICPR, IJCB, ISPA, ICNNSP, ICICS, WACV 2015 
 -- ISBA 2016, ICB 2016, ICIAR 2016, ICIP 2016, CVPR-PBVS 2016, CCPR 2016, AVSS 2016, CCBR 2016
 -- CMV 2017, FG 2017, ISBA 2017, ICIP 2017, CVPR-PBVS 2017, CCBR 2017, BIOSIG 2017
+—- FG 2018, ICB 2018
 
 == Honors
 - ISBA 2017 Runner Up Best Paper Award 
