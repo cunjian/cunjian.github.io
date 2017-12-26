@@ -20,8 +20,7 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: auto;
-	white-space: nowrap;
+	width: 100px;
     text-align: left;
     vertical-align: top;
 }
@@ -33,17 +32,20 @@ body {
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 1.0em;
+	padding-left: 50px;
 	padding-right: 1.0em;
     border: none;
     background: white;
     text-align: left;
     vertical-align: top;
+    width: 1280px;
+    border: 1px solid #dddddd;
 }
 
 #layout-menu a {
 	line-height: 1.5em;
 	margin-left: 0.5em;
+	font-size: 0.8em;
 }
 
 tt {
@@ -87,6 +89,7 @@ div.menu-category {
 div.menu-item {
 	padding-left: 16px;
 	text-indent: -16px;
+	width: 200px;
 }
 
 div#toptitle {
