@@ -1,4 +1,4 @@
-== Cunjian Chen’s Homepage 
+== Cunjian Chen 
 
 ~~~
 {}{img_left}{images/personal.png}{This is Cunjian Chen at MSU}{169}{200}
@@ -22,7 +22,7 @@ I received M.S. and Ph.D. degrees in Computer Science from West Virginia Univers
 
 
 == Research Interests
-Face Detection; Face Alignment; Face Recognition; Soft Biometrics Estimation; Convolutional Neural Network 
+Face Detection; Face Alignment; Face Recognition; Soft Biometrics Estimation; Convolutional Neural Network. 
 
 
 
@@ -36,7 +36,7 @@ Face Detection; Face Alignment; Face Recognition; Soft Biometrics Estimation; Co
 
 == Conferences
 
-. C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
+. C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. \[[http://antitza.com/ChenFaceMakeupSpoof_ISBA2017.pdf PDF]\] {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
 . A. Rattani, C. Chen, A. Ross, \"Evaluation of Texture Descriptors for Automated Gender Estimation from Fingerprints\". Proc. of ECCV Workshop on Soft Biometrics, (Zurich, Switzerland), September 2014. \[[papers/RattaniChenRossFingerprintGender_ECCVW2014.pdf PDF]\] 
 . C. Chen, A. Dantcheva, A. Ross, \"Impact of Facial Cosmetics on Automatic Gender and Age Estimation Algorithms\". Proc. of 9th International Conference on Computer Vision Theory and Applications (VISAPP), (Lisbon, Portugal), January 2014. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenCosmeticsGenderAge_VISAPP2014.pdf PDF]\]
 . C. Chen, A. Dantcheva, A. Ross, \"Automatic Facial Makeup Detection with Application in Face Recognition\". Proc. of 6th IAPR International Conference on Biometrics (ICB), (Madrid, Spain), June 2013. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenMakeupDetection_ICB2013.pdf PDF]\] {{<font color=red size=+0.5><b>}}(Best Poster Award){{</b></font>}}

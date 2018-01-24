@@ -10,8 +10,7 @@ body {
 	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	padding-top: 10px;
-	margin: 1;
+	margin: 0;
 }
 
 #layout-menu {
@@ -366,12 +365,3 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
-
-#intro_table tr.r1{
-    font-weight: bold;
-}
-
-
-
-
-
