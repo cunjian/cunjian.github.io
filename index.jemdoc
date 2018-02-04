@@ -16,14 +16,11 @@ Advisor: [http://www.cse.msu.edu/~rossarun/ Dr. Arun Ross], Professor@Michigan S
 I received M.S. and Ph.D. degrees in Computer Science from West Virginia University, in 2011 and 2014 respectively, supervised by Dr. Arun Ross. From August 2013 to August 2014, I was a Visiting Scholar in the Department of Computer Science Engineering at Michigan State University. After graduation, I work as a Research Associate at Michigan State University.
 
 == Recent Updates
+- Paper Accepted at CDBR2018
 - Win Runner Up Best Paper Award at ISBA 2017
-- Serve as a  Program Committee Member for 12th IEEE CVPR Workshop PBVS 
-- Serve as a  Program Committee Member for ICB 2016 
-
 
 == Research Interests
 Face Detection; Face Alignment; Face Recognition; Soft Biometrics Estimation; Convolutional Neural Network. 
-
 
 
 == Book Chapters
@@ -35,6 +32,8 @@ Face Detection; Face Alignment; Face Recognition; Soft Biometrics Estimation; Co
 . C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2015.  (Impact Factor: 1.55) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
+
+. C. Chen and A. Ross, "A Multi-Task Convolutional Neural Network for Joint Iris Detection and Presentation Attack Detection," 1st Workshop on Cross-Domain Biometric Recognition (CDBR) at the IEEE Winter Conference on Applications of Computer Vision (WACV), (Lake Tahoe, USA), March 2018.
 
 . C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. \[[http://antitza.com/ChenFaceMakeupSpoof_ISBA2017.pdf PDF]\] {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
 . A. Rattani, C. Chen, A. Ross, \"Evaluation of Texture Descriptors for Automated Gender Estimation from Fingerprints\". Proc. of ECCV Workshop on Soft Biometrics, (Zurich, Switzerland), September 2014. \[[papers/RattaniChenRossFingerprintGender_ECCVW2014.pdf PDF]\] 
