@@ -6,9 +6,7 @@ Cunjian Chen, Ph.D.@WVU, Research Associate@MSU\n
 [http://www.cse.msu.edu/~rossarun/i-probe/ iPRoBe Lab], Department of Computer Science and Engineering \n
 [http://www.msu.edu/ Michigan State University], East Lansing, MI\n
 
-
 Email: cunjian@msu.edu \n
-GitHub Projects: [https://github.com/cunjian/face_alignment Face Alignment]\n
 
 Advisor: [http://www.cse.msu.edu/~rossarun/ Dr. Arun Ross], Professor@Michigan State University
 ~~~
@@ -16,7 +14,7 @@ Advisor: [http://www.cse.msu.edu/~rossarun/ Dr. Arun Ross], Professor@Michigan S
 I received M.S. and Ph.D. degrees in Computer Science from West Virginia University, in 2011 and 2014 respectively, supervised by Dr. Arun Ross. From August 2013 to August 2014, I was a Visiting Scholar in the Department of Computer Science Engineering at Michigan State University. Currently, I work as a Research Associate at Michigan State University.
 
 == Research Interests
-Face Detection; Face Alignment; Face Recognition; Soft Biometrics Estimation; Convolutional Neural Network. 
+Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; Face Recognition; Soft Biometrics Estimation; Convolutional Neural Network. 
 
 
 == Book Chapters
