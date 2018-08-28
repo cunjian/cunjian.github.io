@@ -22,8 +22,8 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; Face
 
 
 == Journals
-. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2015. (Impact Factor: 3.681) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2015.  (Impact Factor: 1.55) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
+. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. (Impact Factor: 3.681) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
+. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.55) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
 . C. Chen and A. Ross, "A Multi-Task Convolutional Neural Network for Joint Iris Detection and Presentation Attack Detection," 1st Workshop on Cross-Domain Biometric Recognition (CDBR) at the IEEE Winter Conference on Applications of Computer Vision (WACV), (Lake Tahoe, USA), March 2018. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossIrisMTPAD_CDBR-WACV2018.pdf PDF]\] {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
