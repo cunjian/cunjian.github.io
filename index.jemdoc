@@ -22,8 +22,8 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; Face
 
 
 == Journals
-. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. (Impact Factor: 3.681) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.55) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
+. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. (Impact Factor: 6.639) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
+. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.952) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
 . C. Chen and A. Ross, "A Multi-Task Convolutional Neural Network for Joint Iris Detection and Presentation Attack Detection," 1st Workshop on Cross-Domain Biometric Recognition (CDBR) at the IEEE Winter Conference on Applications of Computer Vision (WACV), (Lake Tahoe, USA), March 2018. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossIrisMTPAD_CDBR-WACV2018.pdf PDF]\] {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
@@ -49,9 +49,9 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; Face
 
 == Program Committee Member
 
-- IAPR International Conference on Biometrics (ICB 2016-2018)
+- IEEE Conference on Automatic Face and Gesture Recognition (FG 2017-2019)
 
-- IEEE Conference on Automatic Face and Gesture Recognition (FG 2017-2018)
+- IAPR International Conference on Biometrics (ICB 2016-2018)
 
 - IEEE International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2018)
 
@@ -60,7 +60,7 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; Face
 - IEEE Workshop on Perception Beyond the Visible Spectrum, in conjunction with
 CVPR (CVPR-PBVS 2016-2018) 
 
-== Honors
+== Awards
 - CDBR 2018 Runner Up Best Paper Award
 - ISBA 2017 Runner Up Best Paper Award 
 - IJCB 2014 Doctoral Consortium Award
