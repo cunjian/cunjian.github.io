@@ -26,6 +26,7 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; [htt
 . C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.952) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
+. A. Ross, S. Banerjee, C. Chen, A. Chowdhury, V. Mirjalili, R. Sharma, T. Swearingen and S. Yadav, “Some Research Problems in Biometrics: The Future Beckons,” Proc. of 12th IAPR International Conference on Biometrics (ICB), (Crete, Greece), June 2019.
 . S. Yadav, C. Chen, A. Ross, "Synthesizing Iris Images using RaSGAN with Application in Presentation Attack Detection,” Proc. of IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), (Long Beach, USA), June 2019.
 . C. Chen and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
 . C. Chen and A. Ross, "Exploring the Use of IrisCodes for Presentation Attack Detection," Proc. of 9th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS), (Los Angeles, USA), October 2018. \[[https://www.cse.msu.edu/~rossarun/pubs/ChenRossIrisCodesPAD_BTAS2018.pdf PDF] \]
@@ -46,6 +47,10 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; [htt
 
 . A. Dantcheva, C. Chen, A. Ross, \"Makeup Challenges Automated Face Recognition Systems\”. SPIE Newsroom 2013, Defense and Security. 
 
+== Tutorial
+
+- Recent Advances in Heterogeneous Face Recognition (HFR): Infrared-to-Visible Matching (BTAS 2019)
+
 == Area Chair
 
 - IEEE International Conference on Multimedia and Expo (ICME 2018-2019)
@@ -58,9 +63,7 @@ Face Detection; [https://github.com/cunjian/face_alignment Face Alignment]; [htt
 
 - IAPR International Conference on Biometrics (ICB 2016-2019)
 
-- IEEE International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2018)
-
-- International Conference of the Biometrics Special Interest Group (BIOSIG 2017-2018) 
+- International Conference of the Biometrics Special Interest Group (BIOSIG 2017-2019) 
 
 - IEEE Workshop on Perception Beyond the Visible Spectrum, in conjunction with CVPR (CVPR-PBVS 2016-2019) 
 
