@@ -25,7 +25,7 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 . C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.952) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
-. S. Yadav, C. Chen, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020.
+. S. Yadav, C. Chen, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
 . A. Ross, S. Banerjee, C. Chen, A. Chowdhury, V. Mirjalili, R. Sharma, T. Swearingen and S. Yadav, “Some Research Problems in Biometrics: The Future Beckons,” Proc. of 12th IAPR International Conference on Biometrics (ICB), (Crete, Greece), June 2019. \[[https://www.cse.msu.edu/~rossarun/pubs/RossFutureBeckons_ICB2019.pdf PDF] \]
 . S. Yadav, C. Chen, A. Ross, "Synthesizing Iris Images using RaSGAN with Application in Presentation Attack Detection,” Proc. of IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), (Long Beach, USA), June 2019. \[[https://www.cse.msu.edu/~rossarun/pubs/YadavSyntheticIrisRaSGAN_CVPRW2019.pdf PDF] \]
 . C. Chen and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
@@ -70,7 +70,7 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 
 - IEEE Workshop on Perception Beyond the Visible Spectrum, in conjunction with CVPR (CVPR-PBVS 2016-2020) 
 
-- International Conference of the Biometrics Special Interest Group (BIOSIG 2017-2019) 
+- International Conference of the Biometrics Special Interest Group (BIOSIG 2017-2020) 
 
 
 == Awards
