@@ -25,7 +25,7 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 . C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.952) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
-. C. Chen, A. Ross,“Attention-Guided Network for Iris Presentation Attack Detection,” arXiv:2010.12631, October 2020. \[[https://arxiv.org/abs/2010.12631 PDF] \]
+. C. Chen, A. Ross, “An Explainable Attention-Guided Iris Presentation Attack Detector,” Workshop on Explainable & Interpretable Artificial Intelligence for Biometrics (xAI4Biometrics) at the IEEE Winter Conference on Applications of Computer Vision (WACV), January 2021. \[[https://arxiv.org/abs/2010.12631 PDF] \]
 . P. Das, J. McGrath, Z. Fang, A. Boyd, G. Jang, A. Mohammadi, S. Purnapatra, D. Yambay, S. Marcel, M. Trokielwicz, P. Maciejewicz, K. Bowyer, A. Czajka, S. Schuckers, J. T. Farias, S. Gonzalez, M. Fang, N. Damer, F. Boutros, A. Kuijper, R. Sharma, C. Chen and A. Ross, ``Iris Liveness Detection Competition (LivDet-Iris)-The 2020 Edition," Proc. of International Joint Conference on Biometrics (IJCB), September 2020. \[[https://arxiv.org/abs/2009.00749 PDF] \]
  \[[https://github.com/cunjian/LivDet-Iris-2020-MSUPADAlgorithm1 Code] \]
 . S. Yadav, C. Chen, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
@@ -72,6 +72,6 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 
 == Teaching
 
-- [https://cse891-002-ss20.github.io/ CSE 891-002: Deep Learning in Biometrics] (Spring 2020)
+- [https://cse891-002-ss20.github.io/ CSE 891-002: Deep Learning in Biometrics (3.66/4.0)] (Spring 2020)
 
 
