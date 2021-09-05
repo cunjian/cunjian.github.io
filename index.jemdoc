@@ -19,9 +19,10 @@ Cunjian Chen is a Research Fellow at Monash Suzhou Research Institute. He is als
 *Ph.D. positions with full financial support are available at Monash University. Students with background in image\/video processing, computer vision and deep learning are encouraged to apply. The primary base location is at Suzhou, China. Please find Monash’s minimum Academic Qualifications and English Language Proficiency [https://www.monash.edu/graduate-research/support-and-resources/handbooks/content/chapter-two/2-2 here]. If interested, please send me your CV.*
 
 == Updates
-- Serving as a Session Chair for IJCB 2021.
+- Won the Best Reviewers award from CCBR 2021.
+- Served as a Session Chair for IJCB 2021.
 - One FG 2021 paper on thermal-to-visible face matching is accepted. 
-- Receiving Outstanding Area Chairs award from ICME 2021. 
+- Won Outstanding Area Chairs award from ICME 2021. 
 
 == Research Interests
 Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment]; [https://github.com/cunjian/face_rec_MobileFaceNet Face Recognition]; [https://github.com/cunjian/multitask_CNN Soft Biometrics Estimation]; [https://github.com/cunjian/MTPAD Presentation Attack Detection]. 
@@ -32,8 +33,8 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 
 
 == Journals
-. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. (Impact Factor: 6.639) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 1.952) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
+. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. (Impact Factor: 12.975) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
+. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 3.756) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
 . D. Anghelone, C. Chen, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021.
