@@ -19,7 +19,8 @@ Cunjian Chen is a Research Fellow at Monash Suzhou Research Institute. He is als
 *Ph.D. positions with full financial support are available at Monash University. Students with background in image\/video processing, computer vision and deep learning are encouraged to apply. The primary base location is at Suzhou, China. Please find Monash’s minimum Academic Qualifications and English Language Proficiency [https://www.monash.edu/graduate-research/support-and-resources/handbooks/content/chapter-two/2-2 here]. If interested, please send me your CV.*
 
 == Updates
-- \[12/2021\] One CN patent granted and two EU patents submitted
+- \[01/2022\] One survey paper on cross-spectral face recognition released
+- \[12/2021\] One CN patent granted and two EU patents filed
 - \[10/2021\] One FG 2021 paper on adversarial face recognition was accepted
 - \[10/2021\] Invited as an Area Chair for ICME 2022
 - \[09/2021\] Served as a Session Chair for ICIP 2021
@@ -38,8 +39,9 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 
 
 == Journals
-. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. (Impact Factor: 12.975) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework\”, Pattern Recognition Letters, 2016.  (Impact Factor: 3.756) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
+. D. Anghelone, C. Chen, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
+. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\," Information Fusion Journal, 2016. (Impact Factor: 12.975) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
+. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016.  (Impact Factor: 3.756) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
 . H. Wang, S. Wang, Z. Jin, Y. Wang, C. Chen, M. Tistarelli, “Similarity-based Gray-box Adversarial Attack Against Deep Face Recognition,” Proc. of 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG), December 2021. \[[https://arxiv.org/pdf/2201.04011.pdf PDF] \]
