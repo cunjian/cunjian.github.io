@@ -19,7 +19,7 @@ Cunjian Chen is a Research Fellow at Monash Suzhou Research Institute. He is als
 *Ph.D. positions with full financial support are available at Monash University. Students with background in image\/video processing, computer vision and deep learning are encouraged to apply. The primary base location is at Suzhou, China. Please find Monash’s minimum Academic Qualifications and English Language Proficiency [https://www.monash.edu/graduate-research/support-and-resources/handbooks/content/chapter-two/2-2 here]. If interested, please send me your CV.*
 
 == Updates
-- \[07/2022\] Two IJCB (CCF-C) papers accepted
+- \[07/2022\] Two papers accepted for IJCB 2022
 - \[03/2022\] Selected to receive a NVIDIA Grant
 - \[03/2022\] Invited to serve as an Area Chair for ICIP 2022
 - \[01/2022\] One survey paper on cross-spectral face recognition released
@@ -44,6 +44,8 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 . C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016.  (Impact Factor: 3.756) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 == Conferences
+. C. Chen, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022.
+. D. Anghelone, S. Lannes, V. Strizhkova, P. Faure, C. Chen, A. Dantcheva, “TFLD: Thermal Face and Landmark Detection for Unconstrained Cross-spectral Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022.
 . H. Wang, S. Wang, Z. Jin, Y. Wang, C. Chen, M. Tistarelli, “Similarity-based Gray-box Adversarial Attack Against Deep Face Recognition,” Proc. of 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG), December 2021. \[[https://arxiv.org/pdf/2201.04011.pdf PDF] \]
 . D. Anghelone, C. Chen, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
 . C. Chen, A. Ross, “An Explainable Attention-Guided Iris Presentation Attack Detector,” Workshop on Explainable & Interpretable Artificial Intelligence for Biometrics (xAI4Biometrics) at the IEEE Winter Conference on Applications of Computer Vision (WACV), January 2021. \[[https://arxiv.org/abs/2010.12631 PDF] \] {{<font color=red size=+0.5><b>}}(Best Paper Award){{</b></font>}} 
