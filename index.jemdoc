@@ -27,22 +27,11 @@ Cunjian Chen is a Research Fellow at Monash Suzhou, as well as an Adjunct Lectur
 - \[10/2021\] One FG 2021 paper on adversarial face recognition was accepted
 - \[10/2021\] Invited as an Area Chair for ICME 2022
 
-== Research Interests
-Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment]; [https://github.com/cunjian/face_rec_MobileFaceNet Face Recognition]; Soft Biometrics Estimation; [https://github.com/cunjian/MTPAD Presentation Attack Detection]. 
 
-
-== Book Chapters
-. D. Reid, S. Samangooei, C. Chen, M. S. Nixon, A. Ross , \"Soft Biometrics for Surveillance: An Overview \". in Handbook of Statistics, Vol. 31, C. R. Rao and V. Govindaraju (Eds.), Elsevier 2013. 
-
-
-== Journals
-. D. Anghelone, C. Chen, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
-. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\," Information Fusion Journal, 2016. (Impact Factor: 12.975) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016.  (Impact Factor: 3.756) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
-
-== Conferences
+== Publications
 . C. Chen, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022.
 . D. Anghelone, S. Lannes, V. Strizhkova, P. Faure, C. Chen, A. Dantcheva, “TFLD: Thermal Face and Landmark Detection for Unconstrained Cross-spectral Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022.
+. D. Anghelone, C. Chen, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
 . H. Wang, S. Wang, Z. Jin, Y. Wang, C. Chen, M. Tistarelli, “Similarity-based Gray-box Adversarial Attack Against Deep Face Recognition,” Proc. of 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG), December 2021. \[[https://arxiv.org/pdf/2201.04011.pdf PDF] \]
 . D. Anghelone, C. Chen, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
 . C. Chen, A. Ross, “An Explainable Attention-Guided Iris Presentation Attack Detector,” Workshop on Explainable & Interpretable Artificial Intelligence for Biometrics (xAI4Biometrics) at the IEEE Winter Conference on Applications of Computer Vision (WACV), January 2021. \[[https://arxiv.org/abs/2010.12631 PDF] \] {{<font color=red size=+0.5><b>}}(Best Paper Award){{</b></font>}} 
@@ -55,8 +44,11 @@ Face Detection; [https://github.com/cunjian/pytorch_face_landmark Face Alignment
 . C. Chen and A. Ross, "Exploring the Use of IrisCodes for Presentation Attack Detection," Proc. of 9th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS), (Los Angeles, USA), October 2018. \[[https://www.cse.msu.edu/~rossarun/pubs/ChenRossIrisCodesPAD_BTAS2018.pdf PDF] \]
 . C. Chen and A. Ross, "A Multi-Task Convolutional Neural Network for Joint Iris Detection and Presentation Attack Detection," 1st Workshop on Cross-Domain Biometric Recognition (CDBR) at the IEEE Winter Conference on Applications of Computer Vision (WACV), (Lake Tahoe, USA), March 2018. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossIrisMTPAD_CDBR-WACV2018.pdf PDF]\] \[[https://github.com/cunjian/MTPAD Code]\] {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
 . C. Chen, A. Dantcheva, T. Swearingen, A. Ross, "Spoofing Faces Using Makeup: An Investigative Study," Proc. of 3rd IEEE International Conference on Identity, Security and Behavior Analysis (ISBA 2017), (New Delhi, India), February 2017. \[[http://antitza.com/ChenFaceMakeupSpoof_ISBA2017.pdf PDF]\] \[[https://youtu.be/qU3X0vbmZmo Demo]\] {{<font color=red size=+0.5><b>}}(Runner Up Best Paper Award){{</b></font>}} 
+. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\," Information Fusion Journal, 2016. (Impact Factor: 12.975) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
+. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016.  (Impact Factor: 3.756) \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 . A. Rattani, C. Chen, A. Ross, \"Evaluation of Texture Descriptors for Automated Gender Estimation from Fingerprints\". Proc. of ECCV Workshop on Soft Biometrics, (Zurich, Switzerland), September 2014. 
 . C. Chen, A. Dantcheva, A. Ross, \"Impact of Facial Cosmetics on Automatic Gender and Age Estimation Algorithms\". Proc. of 9th International Conference on Computer Vision Theory and Applications (VISAPP), (Lisbon, Portugal), January 2014. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenCosmeticsGenderAge_VISAPP2014.pdf PDF]\]
+. D. Reid, S. Samangooei, C. Chen, M. S. Nixon, A. Ross , \"Soft Biometrics for Surveillance: An Overview \". in Handbook of Statistics, Vol. 31, C. R. Rao and V. Govindaraju (Eds.), Elsevier 2013. 
 . C. Chen, A. Dantcheva, A. Ross, \"Automatic Facial Makeup Detection with Application in Face Recognition\". Proc. of 6th IAPR International Conference on Biometrics (ICB), (Madrid, Spain), June 2013. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenMakeupDetection_ICB2013.pdf PDF]\] {{<font color=red size=+0.5><b>}}(Best Poster Award){{</b></font>}}
 . C. Chen and A. Ross, \"Local Gradient Gabor Pattern (LGGP) With Applications in Face Recognition, Cross-spectral Matching and Soft Biometrics\". Proc. of SPIE Biometric and Surveillance Technology for Human and Activity Identification X, (Baltimore, USA), May 2013. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenLGGP_SPIE2013.pdf PDF]\]
 . A. Dantcheva, C. Chen, A. Ross, \"Makeup Challenges Automated Face Recognition Systems\”. SPIE Newsroom 2013, Defense and Security. 
