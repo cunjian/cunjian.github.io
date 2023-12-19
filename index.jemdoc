@@ -13,12 +13,13 @@
 == Biography
 Cunjian Chen is currently a Research Fellow at Monash Suzhou and an Adjunct Lecturer (Assistant Professor) at Monash University Australia. He obtained his Ph.D. in Computer Science from West Virginia University. Before joining Monash, he worked as a Senior Research Associate with [https://rossarun.wixsite.com/arun-ross Arun Ross] at Michigan State University. Dr. Chen's research interests focus on Generative Models and their applications in computer vision. He is also a Senior Member of IEEE and directs the [https://cunjian.github.io/cviu/ Image and Vision Lab]. 
 
-*We have several openings with full scholarship support for PhD students interested in [https://www.monash.edu/it Monash University] starting Fall 2023. The ideal applicant should be highly self-motivated and has strong skills in both mathematics and programming. If interested, please send me your CV. I am also looking for RA\/Interns.*
+*We have several openings with full scholarship support for PhD students interested in [https://www.monash.edu/it Monash University] starting Spring 2024. The ideal applicant should be highly self-motivated and has strong skills in both mathematics and programming. If interested, please send me your CV. I am also looking for RA\/Interns.*
 
 == Research Interests
 - Computer Vision, Machine Learning, Deep Learning, Generative AI, Medical Image Analysis.
 
 == Updates
+- \[11/2023\] Selected to receive a DUG HPCaaS Grant
 - \[08/2023\] One paper accepted by Expert Systems With Applications
 - \[04/2023\] Invited to become an Associate Editor of Neural Processing Letters (Springer)
 - \[01/2023\] Invited to become an Area Chair for ICIP 2023
@@ -31,35 +32,36 @@ Cunjian Chen is currently a Research Fellow at Monash Suzhou and an Adjunct Lect
 
 
 == Selected Publications 
-. X. Ma, X. Zhou, H. Huang, G. Jia, Y. Wang, X. Chen, C. Chen, “Uncertainty-Aware Image Inpainting with Adaptive Feedback Network,” Expert Systems With Applications (ESWA), August 2023. \[[https://www.sciencedirect.com/science/article/pii/S0957417423016500 PDF] \]
-. C. Chen, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936358/file/IJCB2022_AGGAN_HAL.pdf PDF] \]
-. D. Anghelone, S. Lannes, V. Strizhkova, P. Faure, C. Chen, A. Dantcheva, “TFLD: Thermal Face and Landmark Detection for Unconstrained Cross-spectral Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936331/file/IJCB2022_TFLD_HAL.pdf PDF] \]
-. D. Anghelone, C. Chen, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
-. H. Wang, S. Wang, Z. Jin, Y. Wang, C. Chen, M. Tistarelli, “Similarity-based Gray-box Adversarial Attack Against Deep Face Recognition,” Proc. of 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG), December 2021. \[[https://arxiv.org/pdf/2201.04011.pdf PDF] \]
-. D. Anghelone, C. Chen, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
-. S. Yadav, C. Chen, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
-. C. Chen and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
-. C. Chen, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\," Information Fusion Journal, 2016. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. C. Chen and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
+. X. Ma, X. Zhou, H. Huang, G. Jia, Y. Wang, X. Chen, *C. Chen*, “Uncertainty-Aware Image Inpainting with Adaptive Feedback Network,” Expert Systems With Applications (ESWA), August 2023. \[[https://www.sciencedirect.com/science/article/pii/S0957417423016500 PDF] \]
+. *C. Chen*, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936358/file/IJCB2022_AGGAN_HAL.pdf PDF] \]
+. D. Anghelone, S. Lannes, V. Strizhkova, P. Faure, *C. Chen*, A. Dantcheva, “TFLD: Thermal Face and Landmark Detection for Unconstrained Cross-spectral Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936331/file/IJCB2022_TFLD_HAL.pdf PDF] \]
+. D. Anghelone, *C. Chen*, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
+. H. Wang, S. Wang, Z. Jin, Y. Wang, *C. Chen*, M. Tistarelli, “Similarity-based Gray-box Adversarial Attack Against Deep Face Recognition,” Proc. of 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG), December 2021. \[[https://arxiv.org/pdf/2201.04011.pdf PDF] \]
+. D. Anghelone, *C. Chen*, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
+. S. Yadav, *C. Chen*, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
+. *C. Chen* and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
+. *C. Chen*, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\," Information Fusion Journal, 2016. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
+. *C. Chen* and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
 
 - [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list here]
  
 == Patents
-. D. Anghelone, P. Faure, C. Chen, A. Ross, A. Dantcheva, "Cross-spectral face recognition training and cross-spectral face recognition method,” EP4198928A1, June 2023.
-. D. Anghelone, P. Faure, C. Chen, A. Dantcheva, V. Strizhkova, "Thermal face and landmark detection method,” EP4198927A1, June 2023.
+. D. Anghelone, P. Faure, *C. Chen*, A. Ross, A. Dantcheva, "Cross-spectral face recognition training and cross-spectral face recognition method,” EP4198928A1, June 2023.
+. D. Anghelone, P. Faure, *C. Chen*, A. Dantcheva, V. Strizhkova, "Thermal face and landmark detection method,” EP4198927A1, June 2023.
 
 
 == Editorial Board
 
-- IET Image Processing (Associate Editor)
-- Neural Processing Letters (Associate Editor)
+- IET Image Processing (Associate Editor, 2020 - 2023)
+- Neural Processing Letters (Associate Editor, 2023 - Present)
 
 
 == Organizing Activities
 
-- Recent Advances in Heterogeneous Face Recognition (HFR): Infrared-to-Visible Matching \[[http://ieee-biometrics.org/btas2019/Program.html\#tutorials BTAS2019 Tutorial]\]
+- Monash University-Chongqing University Online Workshop on Advanced Computation and Life Science \[[http://intex.cqu.edu.cn/info/1027/5419.htm MSU-CQU Workshop]\]
 - Advances and Challenges in Face and Gesture based Security Systems (ACFGSS 2020) \[[https://fg2020.org/special-sessions/ FG2020 Special Session]\]
 - Workshop on Deepfakes and Presentation Attacks in Biometrics (DeepPAB 2020)  \[[https://sites.google.com/view/wacv2020-deeppab/ WACV2020 Workshop]\]
+- Recent Advances in Heterogeneous Face Recognition (HFR): Infrared-to-Visible Matching \[[http://ieee-biometrics.org/btas2019/Program.html\#tutorials BTAS2019 Tutorial]\]
  
 == Selected Services
 
