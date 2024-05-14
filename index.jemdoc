@@ -11,7 +11,7 @@
 
 ~~~
 == Biography
-Cunjian Chen is currently a Research Fellow at Monash Suzhou and an Adjunct Lecturer (Assistant Professor) at Monash University Australia. He obtained his Ph.D. in Computer Science from West Virginia University. Before joining Monash, he worked as a Senior Research Associate with [https://rossarun.wixsite.com/arun-ross Arun Ross] at Michigan State University. Dr. Chen's research interests focus on Generative Models and their applications in computer vision. He is also a Senior Member of IEEE and directs the [https://cunjian.github.io/cviu/ Image and Vision Lab]. 
+Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an Adjunct Lecturer (Assistant Professor) at Monash University Australia. He obtained his Ph.D. in Computer Science from West Virginia University. Before joining Monash, he worked as a Senior Research Associate with [https://rossarun.wixsite.com/arun-ross Arun Ross] at Michigan State University. Dr. Chen's research interests focus on Generative Models and their applications in computer vision. He is also a Senior Member of IEEE and directs the [https://cunjian.github.io/cviu/ Image and Vision Lab]. 
 
 *We are constantly seeking highly motivated students interested in pursuing a PhD at [https://www.monash.edu/it Monash University] to join our research team. The ideal applicant should possess strong skills in both mathematics and programming. Preference will be given to applicants with publications in top venues. If you are interested, please send me your CV. Additionally, I am also looking for Research Assistants/Interns.*
 
@@ -19,6 +19,7 @@ Cunjian Chen is currently a Research Fellow at Monash Suzhou and an Adjunct Lect
 - Computer Vision, Machine Learning, Deep Learning, Generative AI, Medical Image Analysis.
 
 == Updates
+- \[05/2024\] One paper accepted by ACM TOMM
 - \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024
 - \[01/2024\] Invited to become an Area Chair for ICIP 2024
 - \[01/2024\] Invited to become an Area Chair for ICME 2024
@@ -32,7 +33,6 @@ Cunjian Chen is currently a Research Fellow at Monash Suzhou and an Adjunct Lect
 . *C. Chen*, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936358/file/IJCB2022_AGGAN_HAL.pdf PDF] \]
 . D. Anghelone, S. Lannes, V. Strizhkova, P. Faure, *C. Chen*, A. Dantcheva, “TFLD: Thermal Face and Landmark Detection for Unconstrained Cross-spectral Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936331/file/IJCB2022_TFLD_HAL.pdf PDF] \]
 . D. Anghelone, *C. Chen*, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
-. H. Wang, S. Wang, Z. Jin, Y. Wang, *C. Chen*, M. Tistarelli, “Similarity-based Gray-box Adversarial Attack Against Deep Face Recognition,” Proc. of 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG), December 2021. \[[https://arxiv.org/pdf/2201.04011.pdf PDF] \]
 . D. Anghelone, *C. Chen*, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
 . S. Yadav, *C. Chen*, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
 . *C. Chen* and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
