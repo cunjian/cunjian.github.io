@@ -18,16 +18,17 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 - Computer Vision, Machine Learning, Deep Learning, Generative AI, Medical Image Analysis.
 
 == Updates
+- \[05/2024\] One paper on Action-OOD released on arXiv
 - \[05/2024\] One paper accepted by ACM TOMM
 - \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024
 - \[01/2024\] Invited to become an Area Chair for ICIP 2024
 - \[01/2024\] Invited to become an Area Chair for ICME 2024
 - \[11/2023\] Selected to receive a DUG HPCaaS Grant
 - \[08/2023\] One paper accepted by Expert Systems With Applications
-- \[04/2023\] Invited to become an Associate Editor of Neural Processing Letters (Springer)
 
 
 == Selected Publications 
+. J. Xu, A. Zhu, J. Lin, Q. Ke, *C. Chen*, “Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection,” arXiv preprint, May. 2024.  \[[https://github.com/YilliaJing/Action-OOD.git Code] \]
 . H. Wang, S. Wang, *C. Chen*, M. Tistarelli, Z. Jin, “A Multi-task AdversarialAttack Against Face Authentication,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), May 2024.
 . X. Ma, X. Zhou, H. Huang, G. Jia, Y. Wang, X. Chen, *C. Chen*, “Uncertainty-Aware Image Inpainting with Adaptive Feedback Network,” Expert Systems With Applications (ESWA), August 2023. \[[https://www.sciencedirect.com/science/article/pii/S0957417423016500 PDF] \]
 . *C. Chen*, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936358/file/IJCB2022_AGGAN_HAL.pdf PDF] \]
@@ -36,9 +37,6 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 . D. Anghelone, *C. Chen*, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
 . S. Yadav, *C. Chen*, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
 . *C. Chen* and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
-. *C. Chen*, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\," Information Fusion Journal, 2016. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf PDF]\]
-. *C. Chen* and A. Ross, \"Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework,\” Pattern Recognition Letters, 2016. \[[http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf PDF]\]
-
 - [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list here]
  
 == Patents
