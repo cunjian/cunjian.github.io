@@ -23,16 +23,15 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 
 
 == Updates
+- \[07/2024\] One paper accepted by ACMMM 2024
 - \[05/2024\] One paper on Action-OOD released on arXiv
 - \[05/2024\] One paper accepted by ACM TOMM
 - \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024
 - \[01/2024\] Invited to become an Area Chair for ICIP 2024
 - \[01/2024\] Invited to become an Area Chair for ICME 2024
-- \[11/2023\] Selected to receive a DUG HPCaaS Grant
-- \[08/2023\] One paper accepted by Expert Systems With Applications
-
 
 == Selected Publications 
+. J. Lin, G. Zhao, J. Xu, G. Wang, Z. Wang, A. Dantcheva, L. Du, *C. Chen*, “DiffTV: Identity-Preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions,” Proc. of 32nd ACM Multimedia Conference (ACMMM), 28 October - 1 November 2024. 
 . J. Xu, A. Zhu, J. Lin, Q. Ke, *C. Chen*, “Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection,” arXiv preprint, May. 2024.  \[[https://github.com/YilliaJing/Action-OOD.git Code] \]
 . H. Wang, S. Wang, *C. Chen*, M. Tistarelli, Z. Jin, “A Multi-task AdversarialAttack Against Face Authentication,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), May 2024.
 . X. Ma, Y. Wang, G. Jia, X. Chen, Z. Liu, YF. Li, *C. Chen*, Y. Qiao, “Latte: Latent Diffusion Transformer for Video Generation,” arXiv preprint, Jan. 2024. \[[https://github.com/Vchitect/Latte Code] \]
@@ -42,7 +41,6 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 . D. Anghelone, *C. Chen*, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
 . D. Anghelone, *C. Chen*, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
 . S. Yadav, *C. Chen*, A. Ross, “Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection,” Proc. of IEEE Winter Conference on Applications of Computer Vision (WACV), (Aspen, USA), March 2020. \[[http://openaccess.thecvf.com/content_WACV_2020/papers/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.pdf PDF] \]
-. *C. Chen* and A. Ross, "Matching Thermal to Visible Face Images Using a Semantic-Guided Generative Adversarial Network,” Proc. of 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG), (Lille, France), May 2019. \[[https://arxiv.org/abs/1903.00963 PDF]\] \[[https://github.com/cunjian/SG-GAN Code]\]
 - [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list here]
  
 == Patents
@@ -64,6 +62,7 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 - Recent Advances in Heterogeneous Face Recognition (HFR): Infrared-to-Visible Matching \[[http://ieee-biometrics.org/btas2019/Program.html\#tutorials BTAS2019 Tutorial]\]
  
 == Selected Services
+
 - European Conference on Artificial Intelligence (ECAI SPC 2024)
 
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP Session Chair 2021, Area Chair 2023)
@@ -72,15 +71,7 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 
 - IEEE International Conference on Image Processing (ICIP Area Chair 2021-2024, Session Chair 2021)
 
-- IEEE Conference on Automatic Face and Gesture Recognition (FG TPC 2017-2020; FG Session Chair 2020; FG Area Chair 2021)
 
-- IEEE Workshop on Perception Beyond the Visible Spectrum, in conjunction with CVPR (CVPR-PBVS TPC 2016-2024) 
-
-- International Conference of the Biometrics Special Interest Group (BIOSIG TPC 2017-2023) 
-
-== Professional Society
-
-- IEEE Senior Member
 
 == Teaching
 
