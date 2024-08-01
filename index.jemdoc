@@ -23,30 +23,48 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 
 
 == Updates
-- \[07/2024\] One paper on Animation released on arXiv
-- \[07/2024\] One paper accepted by ACMMM 2024
-- \[05/2024\] One paper on Action-OOD released on arXiv
-- \[05/2024\] One paper accepted by ACM TOMM
-- \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024
-- \[01/2024\] Invited to become an Area Chair for ICIP 2024
-- \[01/2024\] Invited to become an Area Chair for ICME 2024
+- \[07/2024\] One paper on Animation was released on arXiv.
+- \[07/2024\] One paper was accepted by ACMMM 2024.
+- \[05/2024\] One paper on Action-OOD was released on arXiv.
+- \[05/2024\] One paper was accepted by ACM TOMM.
+- \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024.
+- \[01/2024\] Invited to become an Area Chair for ICIP 2024.
+- \[01/2024\] Invited to become an Area Chair for ICME 2024.
 
 == Selected Publications 
-. X. Ma, Y. Wang, G. Jia, X. Chen, YF. Li, C. Chen, Y. Qiao, “Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models,” arXiv preprint, July 2024.  \[[https://github.com/maxin-cn/Cinemo Code] \]
-. J. Lin, G. Zhao, J. Xu, G. Wang, Z. Wang, A. Dantcheva, L. Du, *C. Chen*, “DiffTV: Identity-Preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions,” Proc. of 32nd ACM Multimedia Conference (ACMMM), 28 October - 1 November 2024. 
-. J. Xu, A. Zhu, J. Lin, Q. Ke, *C. Chen*, “Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection,” arXiv preprint, May 2024.  \[[https://github.com/YilliaJing/Action-OOD.git Code] \]
-. H. Wang, S. Wang, *C. Chen*, M. Tistarelli, Z. Jin, “A Multi-task AdversarialAttack Against Face Authentication,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), May 2024.
-. X. Ma, Y. Wang, G. Jia, X. Chen, Z. Liu, YF. Li, *C. Chen*, Y. Qiao, “Latte: Latent Diffusion Transformer for Video Generation,” arXiv preprint, Jan. 2024. \[[https://github.com/Vchitect/Latte Code] \]
-. X. Ma, X. Zhou, H. Huang, G. Jia, Y. Wang, X. Chen, *C. Chen*, “Uncertainty-Aware Image Inpainting with Adaptive Feedback Network,” Expert Systems With Applications (ESWA), Aug. 2023. \[[https://github.com/maxin-cn/U2AFN Code] \]
-. *C. Chen*, D. Anghelone, P. Faure, A. Dantcheva, “Attention-Guided Generative Adversarial Network for Explainable Thermal to Visible Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936358/file/IJCB2022_AGGAN_HAL.pdf PDF] \]
-. D. Anghelone, S. Lannes, V. Strizhkova, P. Faure, *C. Chen*, A. Dantcheva, “TFLD: Thermal Face and Landmark Detection for Unconstrained Cross-spectral Face Recognition,” Proc. of International Joint Conference on Biometrics (IJCB), October 2022. \[[https://hal.science/hal-03936331/file/IJCB2022_TFLD_HAL.pdf PDF] \]
-. D. Anghelone, *C. Chen*, A. Ross, A. Dantcheva, \"Beyond the Visible: A Survey on Cross-spectral Face Recognition,\" arXiv preprint, Jan. 2022.  \[[https://arxiv.org/abs/2201.04435 PDF] \]
-. D. Anghelone, *C. Chen*, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021. \[[https://hal.archives-ouvertes.fr/hal-03523037/document PDF] \]
+- *Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models* \n
+Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Yuan-Fang Li, *Cunjian Chen*, Yu Qiao \n
+arXiv preprint, July 2024 \n
+[https://arxiv.org/pdf/2407.15642 PDF] | [https://github.com/maxin-cn/Cinemo Code] 
+
+- *DiffTV: Identity-Preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions* \n
+Jingyu Lin, Guiqin Zhao, Jing Xu, Guoli Wang, Zejin Wang, Antitza Dantcheva, Lan Du, *Cunjian Chen* \n
+In Proceeding of ACM Multimedia (ACMMM 2024), Melbourne, Australia, Oct. 2024 - Nov. 2024 
+
+- *A Multi-task Adversarial Attack Against Face Authentication* \n
+Hanrui Wang, Shuo Wang, *Cunjian Chen*, Massimo Tistarelli, Zhe Jin \n
+ACM Transactions on Multimedia Computing, Communications and Applications, May 2024
+
+- *Latte: Latent Diffusion Transformer for Video Generation* \n
+Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Ziwei Liu, Yuan-Fang Li, *Cunjian Chen*, Yu Qiao \n
+arXiv preprint, Jan. 2024 \n
+[https://arxiv.org/pdf/2401.03048 PDF] | [https://github.com/Vchitect/Latte Code]
+
+- *Uncertainty-Aware Image Inpainting with Adaptive Feedback Network* \n
+Xin Ma, Xiaoqiang Zhou, Huaibo Huang, Gengyun Jia, Yaohui Wang, Xinyuan Chen, *Cunjian Chen* \n
+Expert Systems with Applications, Jan. 2024 \n
+[https://github.com/maxin-cn/U2AFN Code]
+
 - [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list here]
  
 == Patents
-. D. Anghelone, P. Faure, *C. Chen*, A. Ross, A. Dantcheva, "Cross-spectral face recognition training and cross-spectral face recognition method,” EP4198928A1, June 2023.
-. D. Anghelone, P. Faure, *C. Chen*, A. Dantcheva, V. Strizhkova, "Thermal face and landmark detection method,” EP4198927A1, June 2023.
+- Cross-spectral Face Recognition Training and Cross-spectral Face Recognition Method \n
+David Anghelone, Philippe Faure, *Cunjian Chen*, Arun Ross, Antitza Dantcheva \n
+EP4198928A1, Jun. 2023
+
+- Thermal Face and Landmark Detection Method \n
+David Anghelone, Philippe Faure, *Cunjian Chen*, Antitza Dantcheva, Valeriya Strizhkova \n 
+EP4198927A1, Jun. 2023
 
 
 == Editorial Board
