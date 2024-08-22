@@ -11,11 +11,11 @@
 
 ~~~
 == Biography
-Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an Adjunct Lecturer (Assistant Professor) at Monash University Australia. He obtained his Ph.D. in Computer Science from West Virginia University. Before joining Monash, he worked as a Senior Research Associate with [https://rossarun.wixsite.com/arun-ross Arun Ross] at Michigan State University. Dr. Chen's research interests focus on Generative Models and their applications in computer vision. He is also a Senior Member of IEEE and directs the [https://cunjian.github.io/cviu/ Image and Vision Lab]. 
+Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an Adjunct Lecturer (Assistant Professor) at Monash University Australia. He obtained his Ph.D. in Computer Science from West Virginia University under the supervision of [https://rossarun.wixsite.com/arun-ross Arun Ross] and [https://www-sop.inria.fr/members/Antitza.Dantcheva/ Antitza Dantcheva]. Prior to joining Monash, he worked as a Senior Research Associate at Michigan State University with [https://rossarun.wixsite.com/arun-ross Arun Ross]. His research interests focus on Generative Models and their applications in Computer Vision. He is also a Senior Member of IEEE and leads the [https://cunjian.github.io/cviu/ Image and Vision Lab]. 
 
 
 == Research Interests
-- Computer Vision, Machine Learning, Deep Learning, Generative AI, Medical Image Analysis.
+- Generative AI, Computer Vision, Machine Learning, Deep Learning, Medical Image Analysis.
 
 == Research Opportunities
 
@@ -23,15 +23,18 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 
 
 == Updates
+- \[08/2024\] One paper on Video Synthesis was accepted by IJCV.
 - \[07/2024\] One paper on Animation was released on arXiv.
 - \[07/2024\] One paper was accepted by ACMMM 2024.
 - \[05/2024\] One paper on Action-OOD was released on arXiv.
 - \[05/2024\] One paper was accepted by ACM TOMM.
 - \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024.
-- \[01/2024\] Invited to become an Area Chair for ICIP 2024.
-- \[01/2024\] Invited to become an Area Chair for ICME 2024.
 
 == Selected Publications 
+- *LEO: Generative Latent Image Animator for Human Video Synthesis* \n
+Yaohui Wang, Xin Ma, Xinyuan Chen, *Cunjian Chen*, Antitza Dancheva, Bo Dai, Yu Qiao \n
+International Journal of Computer Vision (IJCV), August 2024
+
 - *Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models* \n
 Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Yuan-Fang Li, *Cunjian Chen*, Yu Qiao \n
 arXiv preprint, July 2024 \n
@@ -43,7 +46,7 @@ In Proceeding of ACM Multimedia (ACMMM 2024), Melbourne, Australia, Oct. 2024 - 
 
 - *A Multi-task Adversarial Attack Against Face Authentication* \n
 Hanrui Wang, Shuo Wang, *Cunjian Chen*, Massimo Tistarelli, Zhe Jin \n
-ACM Transactions on Multimedia Computing, Communications and Applications, May 2024
+ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), May 2024
 
 - *Latte: Latent Diffusion Transformer for Video Generation* \n
 Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Ziwei Liu, Yuan-Fang Li, *Cunjian Chen*, Yu Qiao \n
@@ -52,10 +55,10 @@ arXiv preprint, Jan. 2024 \n
 
 - *Uncertainty-Aware Image Inpainting with Adaptive Feedback Network* \n
 Xin Ma, Xiaoqiang Zhou, Huaibo Huang, Gengyun Jia, Yaohui Wang, Xinyuan Chen, *Cunjian Chen* \n
-Expert Systems with Applications, Jan. 2024 \n
-[https://github.com/maxin-cn/U2AFN Code]
+Expert Systems with Applications (ESWA), Jan. 2024 \n
+[https://www.sciencedirect.com/science/article/pii/S0957417423016500 PDF] | [https://github.com/maxin-cn/U2AFN Code]
 
-- [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list here]
+>>> [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list]
  
 == Patents
 - Cross-spectral Face Recognition Training and Cross-spectral Face Recognition Method \n
