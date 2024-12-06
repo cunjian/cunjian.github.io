@@ -23,6 +23,8 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 
 
 == Updates
+- \[12/2024\] One paper on Skeleton-OOD was accepted by Neurocomputing.
+- \[11/2024\] One paper on Medical Segmentation was accepted by PAA.
 - \[10/2024\] One paper on Video Synthesis (LaVie) was accepted by IJCV.
 - \[09/2024\] One paper on Adversarial Purification was accepted by TDSC.
 - \[09/2024\] One Survey paper was accepted by Neurocomputing.
@@ -33,6 +35,11 @@ Cunjian Chen is currently a Research Fellow at Monash University Suzhou and an A
 - \[03/2024\] Invited to join as a Senior Program Committee for ECAI 2024.
 
 == Selected Publications 
+- [https://arxiv.org/pdf/2405.20633 Skeleton-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection] \n
+Jing Xu, Anqi Zhu, Jingyu Lin, Qiuhong Ke, *Cunjian Chen* \n
+*Neurocomputing*, December 2024
+
+
 - [https://arxiv.org/pdf/2309.15103 LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models] \n
 Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, *Cunjian Chen*, Chen Change Loy, Bo Dai, Dahua Lin, Yu Qiao, Ziwei Liu \n
 International Journal of Computer Vision (*IJCV*), October 2024 \n
