@@ -1,0 +1,143 @@
+== Cunjian Chen 
+
+~~~
+{}{img_left}{images/personal.png}{This is Cunjian Chen at MSU}{109}{130}
+
+[https://www.monash.edu/it/dsai Department of Data Science and Artificial Intelligence] \n
+[https://www.monash.edu/it Faculty of Information Technology] \n
+[https://www.monash.edu Monash University]\n
+
+[cunjian.chen@monash.edu Email] \/ [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en Google Scholar] \/ [https://github.com/cunjian Github] \/ [https://cunjian.github.io/cviu/people/ Group] \n 
+
+~~~
+== Biography
+Cunjian Chen is a Research Fellow at Monash University Suzhou and an Adjunct Lecturer (Assistant Professor) at Monash University Australia. He obtained his Ph.D. in Computer Science from West Virginia University under the supervision of [https://rossarun.wixsite.com/arun-ross Arun Ross] and [https://www-sop.inria.fr/members/Antitza.Dantcheva/ Antitza Dantcheva]. Before joining Monash, he worked as a Senior Research Associate at Michigan State University with [https://rossarun.wixsite.com/arun-ross Arun Ross]. His research interests focus on Generative Models and their applications in Computer Vision. He is also a Senior Member of IEEE and leads the [https://cunjian.github.io/cviu/ Image and Vision Group]. 
+
+
+== Research Interests
+- Generative AI, Computer Vision, Deep Learning, Medical Image Analysis.
+
+== Research Opportunities
+
+- Several paid RA/Intern positions are available. We seek highly motivated students interested in AI-generated content (AIGC) with a strong background in mathematics and programming. Preference will be given to applicants with publications in top venues. If you are interested, please send me your CV. 
+
+
+== Updates
+- \[01/2025\] I am serving as an Area Chair for ICIP 2025.
+- \[01/2025\] One paper on Medical Segmentation was accepted by Neurocomputing.
+- \[12/2024\] I am serving as a Senior Program Committee for IJCAI 2025.
+- \[12/2024\] Invited to join as a Senior Program Committee for ECAI 2025.
+- \[12/2024\] Invited to become an Area Chair for ICME 2025.
+- \[12/2024\] Invited to become an Area Chair for IJCNN 2025.
+- \[12/2024\] One paper on Multimodal Language Models was released on arXiv.
+- \[12/2024\] One paper on Skeleton-OOD was accepted by Neurocomputing.
+- \[11/2024\] One paper on Medical Segmentation was accepted by PAA.
+- \[10/2024\] One paper on Video Synthesis (LaVie) was accepted by IJCV.
+- \[09/2024\] One paper on Adversarial Purification was accepted by TDSC.
+- \[09/2024\] One Survey paper was accepted by Neurocomputing.
+- \[08/2024\] One paper on Video Synthesis was accepted by IJCV.
+- \[07/2024\] One paper on Animation was released on arXiv.
+- \[07/2024\] One paper was accepted by ACMMM 2024.
+- \[05/2024\] One paper was accepted by ACM TOMM.
+
+== Selected Publications 
+
+- [https://arxiv.org/pdf/2410.10097 REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation] \n
+Zhiyun Song, Yinjie Zhao, Xiaomin Li, Manman Fei, Xiangyu Zhao, Mengjun Liu, *Cunjian Chen*, Chung-Hsing Yeh, Qian Wang, Guoyan Zheng, Songtao Ai, Lichi Zhang \n
+*Neurocomputing*, January 2025 \n
+
+
+- [https://www.sciencedirect.com/science/article/pii/S0925231224019295?via%3Dihub Skeleton-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection] \n
+Jing Xu, Anqi Zhu, Jingyu Lin, Qiuhong Ke, *Cunjian Chen* \n
+*Neurocomputing*, December 2024 \n
+[https://arxiv.org/pdf/2405.20633 Paper] | [https://github.com/YilliaJing/Skeleton-OOD Code]
+
+
+- [https://arxiv.org/pdf/2309.15103 LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models] \n
+Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, *Cunjian Chen*, Chen Change Loy, Bo Dai, Dahua Lin, Yu Qiao, Ziwei Liu \n
+International Journal of Computer Vision (*IJCV*), October 2024 \n
+[https://arxiv.org/pdf/2309.15103 Paper] | [https://github.com/Vchitect/LaVie Code] 
+
+- [https://arxiv.org/pdf/2408.10673 Iterative Window Mean Filter: Thwarting Diffusion-based Adversarial Purification] \n
+Hanrui Wang, Ruoxi Sun, *Cunjian Chen*, Minhui Xue, Lay-Ki Soon, Shuo Wang, Zhe Jin \n
+IEEE Transactions on Dependable and Secure Computing (*TDSC*), September 2024 \n
+[https://arxiv.org/pdf/2408.10673 Paper] | [https://github.com/azrealwang/iwmfdiff Code]
+
+- [https://www.sciencedirect.com/science/article/pii/S0925231224013973 Beyond the Visible: A Survey on Cross-spectral Face Recognition] \n
+David Anghelone, *Cunjian Chen*, Arun Ross, Antitza Dantcheva \n
+*Neurocomputing*, September 2024
+
+- [https://arxiv.org/pdf/2305.03989 LEO: Generative Latent Image Animator for Human Video Synthesis] \n
+Yaohui Wang, Xin Ma, Xinyuan Chen, *Cunjian Chen*, Antitza Dancheva, Bo Dai, Yu Qiao \n
+International Journal of Computer Vision (*IJCV*), August 2024  \n
+
+- [https://arxiv.org/abs/2407.15642 Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models] \n
+Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Yuan-Fang Li, *Cunjian Chen*, Yu Qiao \n
+arXiv preprint, July 2024 \n
+[https://arxiv.org/pdf/2407.15642 Paper] | [https://github.com/maxin-cn/Cinemo Code] 
+
+- [https://openreview.net/pdf/77645301257396ed47b36b35868055d8e4ab38de.pdf DiffTV: Identity-Preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions] \n
+Jingyu Lin, Guiqin Zhao, Jing Xu, Guoli Wang, Zejin Wang, Antitza Dantcheva, Lan Du, *Cunjian Chen* \n
+In Proceeding of ACM Multimedia (*ACMMM*), Melbourne, Australia, Oct. 2024 - Nov. 2024 
+
+- [https://www.arxiv.org/pdf/2408.08205 A Multi-task Adversarial Attack Against Face Authentication] \n
+Hanrui Wang, Shuo Wang, *Cunjian Chen*, Massimo Tistarelli, Zhe Jin \n
+ACM Transactions on Multimedia Computing, Communications and Applications (*TOMM*), May 2024
+
+- [https://arxiv.org/pdf/2401.03048 Latte: Latent Diffusion Transformer for Video Generation] \n
+Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Ziwei Liu, Yuan-Fang Li, *Cunjian Chen*, Yu Qiao \n
+arXiv preprint, Jan. 2024 \n
+[https://arxiv.org/pdf/2401.03048 Paper] | [https://github.com/Vchitect/Latte Code]
+
+- [https://www.sciencedirect.com/science/article/pii/S0957417423016500 Uncertainty-Aware Image Inpainting with Adaptive Feedback Network] \n
+Xin Ma, Xiaoqiang Zhou, Huaibo Huang, Gengyun Jia, Yaohui Wang, Xinyuan Chen, *Cunjian Chen* \n
+Expert Systems with Applications (*ESWA*), Jan. 2024 \n
+[https://www.sciencedirect.com/science/article/pii/S0957417423016500 Paper] | [https://github.com/maxin-cn/U2AFN Code]
+
+>>> [https://scholar.google.com/citations?user=f26cvh8AAAAJ&hl=en See full publication list]
+ 
+== Patents
+- Cross-spectral Face Recognition Training and Cross-spectral Face Recognition Method \n
+David Anghelone, Philippe Faure, *Cunjian Chen*, Arun Ross, Antitza Dantcheva \n
+EP4198928A1, Jun. 2023
+
+- Thermal Face and Landmark Detection Method \n
+David Anghelone, Philippe Faure, *Cunjian Chen*, Antitza Dantcheva, Valeriya Strizhkova \n 
+EP4198927A1, Jun. 2023
+
+
+== Editorial Board
+
+- IET Image Processing (Associate Editor, 2020 - 2023)
+- Neural Processing Letters (Associate Editor, 2023 - Present)
+
+
+== Organizing Activities
+
+- Monash University-Chongqing University Online Workshop on Advanced Computation and Life Science \[[http://intex.cqu.edu.cn/info/1027/5419.htm MSU-CQU Workshop]\]
+- Advances and Challenges in Face and Gesture based Security Systems (ACFGSS 2020) \[[https://fg2020.org/special-sessions/ FG2020 Special Session]\]
+- Workshop on Deepfakes and Presentation Attacks in Biometrics (DeepPAB 2020)  \[[https://sites.google.com/view/wacv2020-deeppab/ WACV2020 Workshop]\]
+- Recent Advances in Heterogeneous Face Recognition (HFR): Infrared-to-Visible Matching \[[http://ieee-biometrics.org/btas2019/Program.html\#tutorials BTAS2019 Tutorial]\]
+ 
+== Selected Services
+- International Joint Conference on Artificial Intelligence (IJCAI SPC 2025)
+
+- IEEE International Conference on Multimedia and Expo (ICME Area Chair 2018-2019, 2021-2025; ICME Session Chair 2021-2022)
+
+- IEEE International Conference on Image Processing (ICIP Area Chair 2021-2025, Session Chair 2021)
+
+- International Joint Conference on Neural Networks (IJCNN Area Chair 2025) 
+
+- European Conference on Artificial Intelligence (ECAI SPC 2024-2025)
+
+
+
+== Teaching
+
+- FIT 5047: Fundamentals of Artificial Intelligence (S1 2022-2024, Monash) 
+
+- FIT 5201: Machine Learning (T3 2022, S1 2023-2024, Monash) 
+
+- FIT 5217: Natural Language Processing (T3 2023-2024, Monash) 
+
+- [https://cse891-002-ss20.github.io/ CSE 891-002: Deep Learning in Biometrics (3.66/4.0)] (Spring 2020, MSU)
